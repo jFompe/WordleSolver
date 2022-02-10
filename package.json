@@ -1,0 +1,22 @@
+{
+  "name": "wordlebot",
+  "version": "1.0.0",
+  "description": "Wordle Solver based on selenium",
+  "main": "WordleSolver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jFompe/WordleSolver.git"
+  },
+  "author": "Jaime Fomperosa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jFompe/WordleSolver/issues"
+  },
+  "homepage": "https://github.com/jFompe/WordleSolver#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.1.1"
+  }
+}
