@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jFompe/WordleSolver#readme",
   "dependencies": {
+    "jsdom": "^19.0.0",
     "selenium-webdriver": "^4.1.1"
   }
 }
