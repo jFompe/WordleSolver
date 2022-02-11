@@ -158,7 +158,6 @@ mella
 mulla
 cojee
 ebano
-matan
 aspad
 vetea
 boldo
@@ -359,7 +358,6 @@ pompi
 laton
 cuñan
 quiño
-tulle
 locus
 urdia
 vicho
@@ -590,7 +588,6 @@ tegeo
 basen
 anche
 asica
-bamba
 malea
 forjo
 follo
@@ -649,7 +646,6 @@ albea
 caces
 renda
 rompe
-tonel
 zampa
 museo
 epata
@@ -714,7 +710,6 @@ eluis
 hacer
 ñoñez
 careo
-omite
 baida
 pilad
 alfes
@@ -888,7 +883,6 @@ podre
 paspo
 avaho
 datas
-optas
 vivac
 zanja
 torea
@@ -1048,7 +1042,6 @@ pujas
 parel
 morfa
 vemos
-fundi
 driza
 jamas
 mayan
@@ -1271,7 +1264,6 @@ jugad
 brame
 jamba
 hicsa
-yerre
 fiero
 bogan
 rocho
@@ -1326,7 +1318,6 @@ cazuz
 hoque
 afora
 hojea
-ratea
 pudor
 cuñal
 punta
@@ -1410,7 +1401,6 @@ ceden
 torro
 corto
 jorfe
-bauza
 james
 vecen
 cuita
@@ -1454,7 +1444,6 @@ lacas
 royan
 clima
 codal
-gamma
 abuza
 elida
 paire
@@ -1537,14 +1526,12 @@ perdi
 acose
 arana
 arpon
-lataz
 atrae
 funca
 dures
 agria
 edras
 mundo
-palto
 jauja
 emula
 intui
@@ -2129,13 +2116,11 @@ cunas
 abito
 cread
 doñee
-tifus
 sazon
 vezar
 aviso
 locee
 güilo
-dejen
 unire
 tipeo
 coses
@@ -2298,7 +2283,6 @@ holco
 pasen
 cirio
 sedar
-torgo
 margo
 valio
 pajon
@@ -2328,7 +2312,6 @@ hacia
 gozar
 cutio
 cicle
-basna
 ayude
 hatee
 güeña
@@ -2777,7 +2760,6 @@ fideo
 morfe
 pizza
 coine
-marro
 apañe
 zumba
 trigo
@@ -2949,7 +2931,6 @@ banjo
 estar
 llave
 hirma
-acece
 ahoye
 lloro
 valar
@@ -2990,7 +2971,6 @@ jales
 funda
 jiote
 lames
-langa
 matul
 vacuo
 radio
@@ -3008,7 +2988,6 @@ logia
 lauto
 dueña
 abren
-agudo
 fisto
 actor
 creen
@@ -3064,7 +3043,6 @@ tueco
 sisen
 clono
 sifue
-teina
 paina
 harto
 lonja
@@ -3116,7 +3094,6 @@ erare
 grado
 vaneo
 cesio
-litre
 poden
 vetes
 actue
@@ -3142,7 +3119,6 @@ tolva
 bambu
 atene
 adren
-luche
 apila
 botad
 maleo
@@ -3312,7 +3288,6 @@ friki
 habon
 forza
 fajea
-jubon
 miñon
 vivis
 chuco
@@ -3378,7 +3353,6 @@ nemeo
 volas
 lacea
 banyo
-salgo
 plomo
 launa
 otico
@@ -3549,7 +3523,6 @@ kurda
 curil
 figle
 arabi
-lacio
 pispa
 jondo
 perla
@@ -3625,14 +3598,12 @@ obvie
 haron
 gofre
 usure
-traza
 jalar
 bilma
 atlas
 himen
 preda
 hecho
-neura
 niñeo
 tangi
 sorra
@@ -3894,7 +3865,6 @@ trise
 zurce
 sumen
 suzon
-masto
 niste
 masco
 apaña
@@ -4148,7 +4118,6 @@ nolit
 lleve
 revio
 gotea
-nabar
 bojen
 obres
 redan
@@ -4250,7 +4219,6 @@ recte
 taren
 lisas
 ludio
-ateza
 abati
 altee
 menge
@@ -4286,7 +4254,6 @@ bohio
 camba
 vahea
 atado
-torre
 olean
 treno
 curri
@@ -4437,7 +4404,6 @@ hampo
 coree
 fugad
 adran
-titis
 tanga
 mises
 mines
@@ -4605,7 +4571,6 @@ fiado
 andad
 llosa
 mugar
-patea
 table
 bacon
 boceo
@@ -4901,7 +4866,6 @@ metio
 corlo
 galua
 cresa
-dotar
 atabe
 vetee
 motil
@@ -5078,8 +5042,6 @@ tillo
 votas
 chufa
 finan
-elide
-flipo
 puaba
 garra
 usier
@@ -5150,7 +5112,6 @@ gacel
 gamon
 comes
 cuter
-biste
 desus
 nitro
 trovo
@@ -5319,7 +5280,6 @@ tonad
 vater
 mayes
 enteo
-sigma
 bajad
 crean
 jauda
@@ -5606,7 +5566,6 @@ llera
 cahiz
 viene
 apoca
-flava
 oible
 nielo
 trina
@@ -6288,7 +6247,6 @@ ruine
 rungo
 manca
 fugar
-rolle
 cosed
 garzo
 lambo
@@ -6306,7 +6264,6 @@ roles
 melgo
 creso
 vibro
-zanga
 pifia
 sepia
 rebus
@@ -6347,7 +6304,6 @@ avies
 crida
 arabe
 crece
-minio
 cabas
 mides
 toral
@@ -6714,7 +6670,6 @@ quede
 meana
 erijo
 saneo
-macia
 lañen
 tamul
 añoso
@@ -7029,7 +6984,6 @@ honro
 emita
 majen
 guiri
-linar
 amomo
 mejen
 oveja
@@ -7168,9 +7122,7 @@ legra
 nidia
 poten
 ronde
-ajase
 buzar
-termo
 tegea
 muero
 necio
@@ -7249,7 +7201,6 @@ alazo
 pulle
 hiper
 rigen
-acede
 groad
 capar
 corra
@@ -7275,7 +7226,6 @@ borra
 falsa
 regas
 entre
-bebop
 sarda
 jumas
 vimos
@@ -7479,7 +7429,6 @@ tallo
 stent
 losad
 tende
-gozon
 drago
 niñee
 nadal
@@ -7525,7 +7474,6 @@ zagal
 bogey
 aries
 eforo
-boten
 aromo
 mutuo
 acabo
@@ -7798,7 +7746,6 @@ seise
 ripia
 asono
 bitad
-chona
 lejia
 mosca
 marsa
@@ -7909,7 +7856,6 @@ chien
 olias
 ayuga
 arijo
-alafa
 pidio
 aoves
 escay
@@ -8059,7 +8005,6 @@ sanan
 vineo
 cruje
 topas
-jeito
 valse
 sedea
 taina
@@ -8070,7 +8015,6 @@ azore
 situe
 dates
 monte
-ornad
 riñas
 soror
 cenia
@@ -8147,7 +8091,6 @@ lirio
 zafra
 yapan
 celia
-ceded
 yermo
 revea
 holle
@@ -8190,7 +8133,6 @@ nacer
 husar
 tejas
 preve
-hadiz
 tehul
 mirar
 lidon
@@ -8353,7 +8295,6 @@ holeo
 medid
 breva
 millo
-zarja
 tolla
 penol
 crema
@@ -9187,7 +9128,6 @@ farro
 ondea
 ateso
 seque
-sonta
 (solo
 nahoa
 hilen
@@ -9396,7 +9336,6 @@ baste
 rapad
 gayar
 ustea
-tapio
 mucho
 rosee
 chela
