@@ -1,5 +1,6 @@
 const { Builder, By, until } = require('selenium-webdriver');
-const fs = require('fs')
+const fs = require('fs');
+const { filter } = require('selenium-webdriver/lib/promise');
 const JSDOM = require('jsdom').JSDOM
 
 const driver = new Builder().forBrowser('chrome').build()
@@ -62,6 +63,35 @@ const filterWords = (words, { correct, present, absent }) => {
     .filter(w => Object.keys(present).every(k => w.includes(present[k]) && present[k] != w[k]))
     .filter(w => Object.keys(correct).every(k => w[k] == correct[k]))
 }
+
+const removeLettersFromWord = (word, letters) => {
+  letters.forEach(l => {
+    word = word.replace(l, '')
+  })
+  return word
+}
+
+const filterWords2 = (words, { correct, present, absent }) => {
+  let filterPattern = {0:null, 1:null, 2:null, 3:null, 4:null}
+  let filterStr = ''
+  Object.keys(correct).forEach(k => filterPattern[k] = correct[k])
+  Object.keys(filterPattern).filter(k => filterPattern[k] == null).forEach(k => {
+    filterPattern[k] = []
+  })
+  Object.keys(present).forEach(k => { filterPattern[k].push(present[k]) })
+  Object.keys(absent).forEach(k => Object.keys(filterPattern).filter(l => filterPattern[l] instanceof Array).forEach(l => {
+    filterPattern[l].push(absent[k])
+  }))
+
+  for (let i = 0; i < 5; i++) {
+    filterStr += filterPattern[i] instanceof Array 
+      ? '[^'+ filterPattern[i].join('') + ']'
+      : filterPattern[i]
+  }
+  console.log('PAT:', filterStr)
+  return words.filter(w => w.match(new RegExp(filterStr)) && Object.values(present).every(l => removeLettersFromWord(w, Object.values(correct)).includes(l)))
+}
+
 const removeWord = word => {
   const delWords = fs.readFileSync('clean.txt', 'utf-8')
   let delList = delWords.split('\r\n')
@@ -89,10 +119,12 @@ const solve = async () => {
       })
       try {
         await clickButton('procesar palabra')
-        if (wordsList.length <= 1) break
         lettersDict = await getWordResultsDict(letters, tries)
-        wordsList = filterWords(wordsList, lettersDict)
+        if (Object.keys(lettersDict['correct']).length == 5) break
+        wordsList = filterWords2(wordsList, lettersDict)
       } catch (error) {
+        console.log('ERROR!!!!!!!!!!!!!!!');
+        console.log(error);
         wordsList.splice(wordsList.indexOf(word), 1)
         await deleteWord()
         tries--
